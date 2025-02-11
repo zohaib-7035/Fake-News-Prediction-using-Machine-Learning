@@ -44,6 +44,5 @@ A sample test case is used to check whether the news is fake or real.
 - Add more features for better accuracy.
 - Experiment with different ML algorithms.
 
-## License
-This project is open-source and available under the MIT License.
+
 
